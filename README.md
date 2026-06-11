@@ -31,18 +31,13 @@ By the end of L08 you will be able to:
 
 ## Phase 2 — In-class (≈ 90 min lecture + 90 min code-along)
 
-- Concept walkthrough: instructor uses the [**interactive key-concepts walkthrough →**](https://flexfengfeng.github.io/dsai-m3-l08-learner/) (revisit any time)
+- Concept walkthrough: instructor uses the [**interactive key-concepts walkthrough →**](https://su-ntu-ctp.github.io/6m-data-3.8-Computer-Vision/) (revisit any time)
 - Code-along notebooks (in order):
   - [02_convolutions_intuition.ipynb](notebooks/02_convolutions_intuition.ipynb) — manual kernels & feature maps
   - [03_first_cnn.ipynb](notebooks/03_first_cnn.ipynb) — a tiny CNN that beats the MLP
   - [04_transfer_learning.ipynb](notebooks/04_transfer_learning.ipynb) — pretrained ResNet18 on small data
 
-> **Don't have a GPU?** L08 runs end-to-end on CPU (~30 min for the CIFAR + ResNet18 fine-tune), but on a T4 GPU in Colab it's ~2 min. Each notebook below has an **Open in Colab** badge at the top — click it, then **Runtime → Change runtime type → T4 GPU**:
->
-> - [![Open NB03 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flexfengfeng/dsai-m3-l08-learner/blob/main/notebooks/03_first_cnn.ipynb) NB 03 — Your first CNN
-> - [![Open NB04 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flexfengfeng/dsai-m3-l08-learner/blob/main/notebooks/04_transfer_learning.ipynb) NB 04 — Transfer learning
-> - [![Open assignment in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flexfengfeng/dsai-m3-l08-learner/blob/main/notebooks/assignment.ipynb) Assignment
-> - [![Open extensions in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flexfengfeng/dsai-m3-l08-learner/blob/main/notebooks/optional_extensions.ipynb) Optional extensions
+> **Don't have a GPU?** L08 runs end-to-end on CPU (~30 min for the CIFAR + ResNet18 fine-tune), but on a T4 GPU in Colab it's ~2 min. Each notebook has an **Open in Colab** badge at the top — click it, then **Runtime → Change runtime type → T4 GPU**:
 
 ## Phase 3 — Post-class (self-study, optional)
 
